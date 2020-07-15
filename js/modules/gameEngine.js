@@ -1,0 +1,8 @@
+
+function startGame(){
+
+}
+
+function endGame(){
+
+}
